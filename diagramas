@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T03:53:30.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" version="16.5.6" etag="BQhOZf8qeisGaEcFO7Xd" type="github"><diagram id="bSIEf0FxeeyG3atj_3Rl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T03:56:35.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="vLGvspHWUt4DWqghvH8k" version="16.5.6" type="github">
+  <diagram id="bSIEf0FxeeyG3atj_3Rl" name="Page-1">
+    <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e9VrbFRczwIHstD_ibIB-1" value="Inicio y fin del programa--&amp;gt;Rombo&lt;br&gt;Operaciones de entrada o salida (lectura y escritura)--&amp;gt;Paralelogramo&lt;br&gt;Bloques para realizar asignaciones--&amp;gt;Rectángulos&lt;br&gt;Toma de decisiones basados en una expresión lógica--&amp;gt;Rombo&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="410" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
