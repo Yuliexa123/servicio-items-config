@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T06:10:32.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="O0EIGT32nIhlNJ1V641X" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T06:15:42.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="d05UDI0dNxnhhSPDVwCx" version="16.5.6" type="github">
   <diagram id="bSIEf0FxeeyG3atj_3Rl" name="Page-1">
-    <mxGraphModel dx="1662" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="e9VrbFRczwIHstD_ibIB-7" value="Leer: num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e9VrbFRczwIHstD_ibIB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9VrbFRczwIHstD_ibIB-9" target="e9VrbFRczwIHstD_ibIB-10">
+        <mxCell id="e9VrbFRczwIHstD_ibIB-17" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9VrbFRczwIHstD_ibIB-9" target="e9VrbFRczwIHstD_ibIB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9VrbFRczwIHstD_ibIB-9" value="num1&amp;gt;num2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
