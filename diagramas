@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T04:55:36.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="Oi3eFMuXqpOm2HNYLbZe" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T05:23:24.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="Ld9VSZ94feRCe0a11dSC" version="16.5.6" type="github">
   <diagram id="bSIEf0FxeeyG3atj_3Rl" name="Page-1">
-    <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,9 @@
             <mxPoint x="660" y="130" as="sourcePoint" />
             <mxPoint x="710" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e9VrbFRczwIHstD_ibIB-23" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;INICIO&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Paso 1: Escribir mensaje: Introduzca un número&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Paso 2: Leer variable 1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Paso 3: Escribir mensaje: Introduzca un número&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Paso 4: Leer variable 2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Paso 5:si( variable 1&amp;gt;variable 2)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;{&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Paso 6: Escribir mensaje: Verdadero&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;}&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;FINAL&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="568" y="-340" width="420" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
